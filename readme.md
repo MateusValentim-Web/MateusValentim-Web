@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente sou um Engenheiro Front End em busca de se tornar um Full Stack<br>
+Atualmente sou um Desenvolvedor Front End em busca de se tornar um Full Stack<br>
 
 
 # 💻 Tech Stack:
